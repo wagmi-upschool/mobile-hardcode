@@ -3,5 +3,8 @@
       "placeholder": "Tuğba",
       "title": "**Aramıza hoşgeldin!**\n\nGelişim yolculuğunda sana destek olmaya çalışacağım. Öncelikle sana seslenebilmem için ismini söyler misin?",
       "description": ""
+    },
+    "major": {
+        "title":"**Uzmanlığın nedir?**\n\nŞuan ne işle uğraşıyorsun, çalışıyorsan uzmanlığın nedir?"
     }
 }
