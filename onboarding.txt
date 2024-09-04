@@ -5,6 +5,7 @@
       "description": ""
     },
     "major": {
-        "title":"**Uzmanlığın nedir?**\n\nŞuan ne işle uğraşıyorsun, çalışıyorsan uzmanlığın nedir?"
+        "title":"**Uzmanlığın nedir?**\n\nŞuan ne işle uğraşıyorsun, çalışıyorsan uzmanlığın nedir?",
+        "placeholder":"Uzmanlık seç"
     }
 }
