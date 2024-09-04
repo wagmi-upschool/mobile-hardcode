@@ -1,7 +1,7 @@
 {
     "starter": {
       "placeholder": "Tuğba",
-      "title": "##Aramıza hoşgeldin! \n 
+      "title": "##Aramıza hoşgeldin! 
 Gelişim yolculuğunda sana destek olmaya çalışacağım. Öncelikle sana seslenebilmem için ismini söyler misin?",
       "description": "Gelişim yolculuğunda sana destek olmaya çalışacağım. Öncelikle sana seslenebilmem için ismini söyler misin?"
     }
