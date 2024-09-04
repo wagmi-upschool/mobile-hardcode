@@ -15,5 +15,15 @@
     "notification": {
         "title":"**Sana hatırlatma yapabilmek için iznine ihtiyacım var.**\n\nGelişimini takip edebilmek için çeşitli hatırlatmalar yapmak istiyoruz. Söz seni gereksiz mesajlarla rahatsız etmeyeceğiz.",
         "options":["Bildirimleri aç","Kapalı kalsın"]
+    },
+    "redirect": {
+        "true":{
+            "title":"**İşte şimdi hazırız.**",
+            "options":[{id:"1",title:"Hadi başlayalım!",description:"Uygulamaya girip neler var bir göz atmak için seni buraya alalım.","route":"/home"}] 
+        },
+  "false":{
+            "title":"**Öyle olsun...**",
+            "options":[{id:"1",title:"Hadi başlayalım!",description:"Uygulamaya girip neler var bir göz atmak için seni buraya alalım.","route":"/home"}] 
+        }
     }
 }
