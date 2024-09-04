@@ -1,9 +1,7 @@
-'''
-  {
+{
     "starter": {
       "placeholder": "Tuğba",
       "title": "Aramıza hoşgeldin!",
       "description": "Gelişim yolculuğunda sana destek olmaya çalışacağım. Öncelikle sana seslenebilmem için ismini söyler misin?"
     }
-  }
-  '''
+}
