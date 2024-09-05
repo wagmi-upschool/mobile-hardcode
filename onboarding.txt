@@ -19,11 +19,11 @@
     "redirect": {
         "true":{
             "title":"**İşte şimdi hazırız.**",
-            "options":[{id:"1",title:"Hadi başlayalım!",description:"Uygulamaya girip neler var bir göz atmak için seni buraya alalım.","route":"/home"}] 
+            "options":[{"id":"1","title":"Hadi başlayalım!","description":"Uygulamaya girip neler var bir göz atmak için seni buraya alalım.","route":"/home"}] 
         },
   "false":{
             "title":"**Öyle olsun...**",
-            "options":[{id:"1",title:"Hadi başlayalım!",description:"Uygulamaya girip neler var bir göz atmak için seni buraya alalım.","route":"/home"}] 
+            "options":[{"id":"1","title":"Hadi başlayalım!","description":"Uygulamaya girip neler var bir göz atmak için seni buraya alalım.","route":"/home"}] 
         }
     }
 }
