@@ -9,7 +9,7 @@
         "placeholder":"Uzmanlık seç"
     },
     "experience": {
-        "title":"**Muhteşem bir endüstri mühendisi olduğuna eminim.**\n\nPeki ne kadar zamandır bu işi yapıyorsun.",
+        "title":"**Muhteşem bir #replace# olduğuna eminim.**\n\nPeki ne kadar zamandır bu işi yapıyorsun.",
         "options":["0-2 yıl","3-5 yıl","6-10 yıl","10 yıldan uzun süredir"]
     },
     "notification": {
