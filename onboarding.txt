@@ -9,11 +9,11 @@
         "placeholder":"Uzmanlığım"
     },
     "experience": {
-        "title":"**Muhteşem bir #replace# olduğuna eminim!**\n\nPeki ne kadar zamandır bu işi yapıyorsun?",
+        "title":"**Harika!**\n\nPeki ne kadar zamandır bu alanda çalışıyorsun?",
         "options":["0 - 2 yıl","3 - 5 yıl","6 - 10 yıl","10 yıldan uzun süredir"]
     },
     "notification": {
-        "title":"**Sana hatırlatma yapabilmek için iznine ihtiyacım var.**\n\nGelişimini takip edebilmek için çeşitli hatırlatmalar yapmak istiyoruz. Söz seni gereksiz mesajlarla rahatsız etmeyeceğiz.",
+        "title":"**Sen yoğunsun, gelişimini takip etmen için ben yanındayım.**\n\nKüçük hatırlatmalar için iznine ihtiyacım var. Söz seni gereksiz mesajlarla rahatsız etmeyeceğim.",
         "options":["Bildirimleri aç","Kapalı kalsın"]
     },
     "redirect": {
