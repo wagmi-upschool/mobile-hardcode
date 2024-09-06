@@ -5,7 +5,7 @@
       "description": ""
     },
     "major": {
-        "title":"**Uzmanlığın nedir?**\n\nŞu an ne iş ile uğraşıyorsun?",
+        "title":"**Uzmanlığın nedir?**\n\nHangi alanda çalışıyorsun?",
         "placeholder":"Uzmanlığım"
     },
     "experience": {
