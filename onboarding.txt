@@ -14,7 +14,9 @@
     },
     "notification": {
         "title":"**Sen yoğunsun, gelişimini takip etmen için ben yanındayım.**\n\nKüçük hatırlatmalar için iznine ihtiyacım var. Söz seni gereksiz mesajlarla rahatsız etmeyeceğim.",
-        "options":["Bildirimleri aç","Kapalı kalsın"]
+        "options":["Bildirimleri aç","Kapalı kalsın"],
+        "true":"Bildirimleri aç",
+        "false":"Kapalı kalsın"
     },
     "redirect": {
         "true":{
