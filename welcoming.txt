@@ -1,6 +1,6 @@
 {
   "hello":{"title":"Merhaba! Ben UP!","description":"Sınırsız konuda sana özel içerikler hazırlayabilirim."},
-  "image_with_text":{"title":"Gelişim yolunda sohbet ederek sana yardımcı olabilirim.","imageUrl":'assets/images/welcome.png'}
+  "image_with_text":{"title":"Gelişim yolunda sohbet ederek sana yardımcı olabilirim.","imageUrl":"assets/images/welcome.png"}
   "slider-info":[
     {
       "text":"Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.",
