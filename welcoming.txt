@@ -1,24 +1,24 @@
 {
-  "hello":{"title":"Merhaba! Ben UP!","description":"Sınırsız konuda sana özel içerikler hazırlayabilirim."},
-  "image_with_text":{"title":"Gelişim yolunda sohbet ederek sana yardımcı olabilirim.","imageUrl":"assets/images/welcome.png"},
+  "hello":{"title":"Merhaba! Ben UP!","description":"Sürekli gelişim için Yapay Zeka Yol Arkadaşınım."},
+  "image_with_text":{"title":"Her sohbetimizde birbirimizi daha iyi tanıyarak birlikte gelişeceğiz.","imageUrl":"assets/images/welcome.png"},
   "slider-info":{"items":[
     {
-      "text":"Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.",
-      "url":"https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/assistant_group_icons/assistant_icons/Property%201=45.png",
-      "key":"Alışkanlık Takibi"
-    },
-    {
-      "text":"Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.",
+      "text":"Zorlu bir geri bildirim konuşmasını benimle pratik edebilir,",
       "url":"https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/assistant_group_icons/assistant_icons/Property%201=45.png",
       "key":"Role Play"
     },
     {
-      "text":"Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.",
+      "text":"Performans değerlendirme gibi süreçlere benimle hazırlanabilirsin.",
       "url":"https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/assistant_group_icons/assistant_icons/Property%201=45.png",
-      "key":"Hafıza Kartları"
+      "key":"Prova Odası"
+    },
+    {
+      "text":"Sorumluluk dostun olarak takip ve hatırlatmalarla hayatını kolaylaştırırım.",
+      "url":"https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/assistant_group_icons/assistant_icons/Property%201=45.png",
+      "key":"Sorumluluk Dostu"
     }
   ]},
   "login":{
-    "text":"Gelişimini beraber takip edelim, beraber gelişelim."
+    "text":"Hadi, tanışmaya ve gelişim için sohbet etmeye başlayalım."
   }
 }
