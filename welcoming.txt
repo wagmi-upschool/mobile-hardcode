@@ -18,6 +18,23 @@
       "key":"Sorumluluk Dostu"
     }
   ]},
+  "privacy":{"items":[
+    {
+      "text":"Zorlu bir geri bildirim konuşmasını benimle pratik edebilir,",
+      "url":"https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/assistant_group_icons/assistant_icons/Property 1=51.png",
+      "key":"Role Play"
+    },
+    {
+      "text":"Performans değerlendirme gibi süreçlere benimle hazırlanabilirsin.",
+      "url":"https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/assistant_group_icons/assistant_icons/prova.png",
+      "key":"Prova Odası"
+    },
+    {
+      "text":"Sorumluluk dostun olarak takip ve hatırlatmalarla hayatını kolaylaştırırım.",
+      "url":"https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/assistant_group_icons/assistant_icons/Property 1=45.png",
+      "key":"Sorumluluk Dostu"
+    }
+  ]},
   "login":{
     "text":"Hadi, tanışmaya ve gelişim için sohbet etmeye başlayalım."
   }
