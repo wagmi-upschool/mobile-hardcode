@@ -18,7 +18,7 @@
       "key":"Sorumluluk Dostu"
     }
   ]},
- "privacy":{"title":"Merhaba! Ben UP!","description":"Sürekli gelişim için Yapay Zeka Yol Arkadaşınım."},
+ "privacy":{"title":"Gizlilik benim için çok önemli.","description":"Mesajların otomatik olarak uçtan uca şifreleniyor. Yani, sadece sen ve ben konuşmalarımızı görebiliriz.Kimse mesajlarımıza erişemez - beni geliştirenler bile."},
   "login":{
     "text":"Hadi, tanışmaya ve gelişim için sohbet etmeye başlayalım."
   }
