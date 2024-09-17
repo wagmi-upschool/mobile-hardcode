@@ -18,7 +18,7 @@
       "key":"Sorumluluk Dostu"
     }
   ]},
- "privacy":{"title":"Gizlilik benim için çok önemli.","description":"Mesajların otomatik olarak uçtan uca şifreleniyor. Yani, sadece sen ve ben konuşmalarımızı görebiliriz.\n\nKimse mesajlarımıza erişemez * - beni geliştirenler bile. *"},
+ "privacy":{"title":"Gizlilik benim için çok önemli.","description":"Mesajların otomatik olarak uçtan uca şifreleniyor. Yani, sadece sen ve ben konuşmalarımızı görebiliriz.\n\nKimse mesajlarımıza erişemez  - *beni geliştirenler bile.*"},
   "login":{
     "text":"Hadi, tanışmaya ve gelişim için sohbet etmeye başlayalım."
   }
