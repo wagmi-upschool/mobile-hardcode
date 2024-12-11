@@ -16,6 +16,11 @@
       "text":"Sorumluluk dostun olarak takip ve hatırlatmalarla hayatını kolaylaştırırım.",
       "url":"https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/600X600_tools/Sorumluluk+Dostu+600X600.png",
       "key":"Sorumluluk Dostu"
+    },
+    {
+      "text":"Güncel text eklenecek.",
+      "url":"https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/600X600_tools/Reflection600x600.png",
+      "key":"Farkındalık Günlüğü"
     }
   ]},
  "privacy":{"title":"Gizlilik benim için çok önemli.","description":"Mesajların otomatik olarak uçtan uca şifreleniyor. Yani, sadece sen ve ben konuşmalarımızı görebiliriz.\n\nKimse mesajlarımıza erişemez  - *beni geliştirenler bile.*"},
