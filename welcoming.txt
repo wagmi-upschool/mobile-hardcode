@@ -18,7 +18,7 @@
       "key":"Sorumluluk Dostu"
     },
     {
-      "text":"Güncel text eklenecek.",
+      "text":"Rehberli günlüklerle düşüncelerini düzenlemene yardım ederim.",
       "url":"https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/600X600_tools/Reflection600x600.png",
       "key":"Farkındalık Günlüğü"
     }
