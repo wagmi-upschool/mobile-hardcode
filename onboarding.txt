@@ -9,8 +9,8 @@
         "placeholder":"Uzmanlığım"
     },
     "experience": {
-        "title":"**Harika!**\n\nPeki ne kadar zamandır bu alanda çalışıyorsun?",
-        "options":["0 - 2 yıl","3 - 5 yıl","6 - 10 yıl","10 yıldan uzun süredir"]
+        "title":"**Harika!**\n\nPeki, çalışma deneyimin?",
+        "options":["Henüz deneyimim yok","0 - 2 yıl","3 - 5 yıl","6 - 10 yıl","10 yıldan uzun süredir"]
     },
     "notification": {
         "title":"**Sen yoğunsun, gelişimini takip etmen için ben yanındayım.**\n\nKüçük hatırlatmalar için iznine ihtiyacım var. Söz seni gereksiz mesajlarla rahatsız etmeyeceğim.",
