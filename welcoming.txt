@@ -1,6 +1,6 @@
 {
   "hello":{"title":"Merhaba! Ben UP!","description":"Sürekli gelişim için Yapay Zeka Yol Arkadaşınım."},
-  "image_with_text":{"title":"Her sohbetimizde birbirimizi daha iyi tanıyarak birlikte gelişeceğiz.","imageUrl":"assets/images/welcome.png"},
+  "image_with_text":{"title":"Her sohbetimizde birbirimizi daha iyi tanıyarak birlikte gelişeceğiz.","imageUrl":"https://upwagmidevcontent234355-upwagmitec.s3.us-east-1.amazonaws.com/public/UP+APP+Go%CC%88rseller+500x500/Welcoming.jpeg"},
   "slider-info":{"items":[
     {
       "text":"Zorlu bir geri bildirim konuşmasını benimle pratik edebilir,",
