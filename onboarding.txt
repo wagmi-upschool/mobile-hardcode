@@ -1,7 +1,7 @@
 {
     "starter": {
-      "placeholder": "İsmim",
-      "title": "**Tanışmak için sabırsızlanıyorum!**\n\nGelişim yolculuğunda sana eşlik edeceğim. Öncelikle sana seslenebilmem için ismini söyler misin?",
+      "placeholder": "",
+      "title": "**Tanışmak için sabırsızlanıyorum!**\n\nGelişim yolculuğunda sana eşlik edeceğim. Öncelikle sana nasıl hitap etmemi istersin?",
       "description": ""
     },
     "major": {
