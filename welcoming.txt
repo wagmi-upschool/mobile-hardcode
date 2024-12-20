@@ -1,30 +1,41 @@
 {
-  "hello":{"title":"Merhaba! Ben UP!","description":"Sürekli gelişim için Yapay Zeka Yol Arkadaşınım."},
-  "image_with_text":{"title":"Her sohbetimizde birbirimizi daha iyi tanıyarak birlikte gelişeceğiz.","imageUrl":"https://upwagmidevcontent234355-upwagmitec.s3.us-east-1.amazonaws.com/public/up_app_gorseller/Welcoming2.jpeg" ,
-  "slider-info":{"items":[
-    {
-      "text":"Zorlu bir geri bildirim konuşmasını benimle pratik edebilir,",
-      "url":"https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/600X600_tools/Role+Play+600x600.png",
-      "key":"Role Play"
-    },
-    {
-      "text":"Performans değerlendirme gibi süreçlere benimle hazırlanabilirsin.",
-      "url":"https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/600X600_tools/Prova+Odas%C4%B1+600X600.png",
-      "key":"Prova Odası"
-    },
-    {
-      "text":"Sorumluluk dostun olarak takip ve hatırlatmalarla hayatını kolaylaştırırım.",
-      "url":"https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/600X600_tools/Sorumluluk+Dostu+600X600.png",
-      "key":"Sorumluluk Dostu"
-    },
-    {
-      "text":"Rehberli günlüklerle düşüncelerini düzenlemene yardım ederim.",
-      "url":"https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/600X600_tools/Reflection600x600.png",
-      "key":"Farkındalık Günlüğü"
-    }
-  ]},
- "privacy":{"title":"Gizlilik benim için çok önemli.","description":"Mesajların otomatik olarak uçtan uca şifreleniyor. Yani, sadece sen ve ben konuşmalarımızı görebiliriz.\n\nKimse mesajlarımıza erişemez  - *beni geliştirenler bile.*"},
-  "login":{
-    "text":"Hadi, tanışmaya ve gelişim için sohbet etmeye başlayalım."
+  "hello": {
+    "title": "Merhaba! Ben UP!",
+    "description": "Sürekli gelişim için Yapay Zeka Yol Arkadaşınım."
+  },
+  "image_with_text": {
+    "title": "Her sohbetimizde birbirimizi daha iyi tanıyarak birlikte gelişeceğiz.",
+    "imageUrl": "https://upwagmidevcontent234355-upwagmitec.s3.us-east-1.amazonaws.com/public/up_app_gorseller/Welcoming2.jpeg"
+  },
+  "slider-info": {
+    "items": [
+      {
+        "text": "Zorlu bir geri bildirim konuşmasını benimle pratik edebilir,",
+        "url": "https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/600X600_tools/Role+Play+600x600.png",
+        "key": "Role Play"
+      },
+      {
+        "text": "Performans değerlendirme gibi süreçlere benimle hazırlanabilirsin.",
+        "url": "https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/600X600_tools/Prova+Odas%C4%B1+600X600.png",
+        "key": "Prova Odası"
+      },
+      {
+        "text": "Sorumluluk dostun olarak takip ve hatırlatmalarla hayatını kolaylaştırırım.",
+        "url": "https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/600X600_tools/Sorumluluk+Dostu+600X600.png",
+        "key": "Sorumluluk Dostu"
+      },
+      {
+        "text": "Rehberli günlüklerle düşüncelerini düzenlemene yardım ederim.",
+        "url": "https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/600X600_tools/Reflection600x600.png",
+        "key": "Farkındalık Günlüğü"
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Gizlilik benim için çok önemli.",
+    "description": "Mesajların otomatik olarak uçtan uca şifreleniyor. Yani, sadece sen ve ben konuşmalarımızı görebiliriz.\n\nKimse mesajlarımıza erişemez  - *beni geliştirenler bile.*"
+  },
+  "login": {
+    "text": "Hadi, tanışmaya ve gelişim için sohbet etmeye başlayalım."
   }
 }
