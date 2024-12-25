@@ -6,7 +6,7 @@
     },
     "major": {
         "title":"**Uzmanlığın nedir?**\n\nHangi alanda çalışıyorsun?",
-        "placeholder":"Uzmanlığım"
+        "placeholder":""
     },
     "experience": {
         "title":"**Harika!**\n\nPeki, çalışma deneyimin?",
