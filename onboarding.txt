@@ -52,6 +52,12 @@
           "title": "Hadi başlayalım!",
           "description": "Uygulamaya girip neler var bir göz atmak için seni buraya alalım.",
           "route": "/home"
+        },
+        {
+          "id": "ABONE_2",
+          "title": "Abone olmak istiyorum!",
+          "description": "Sınırsız sohbet ve gelişim takibi ile daha iyi bir sen için harekete geç!",
+          "route": "/home"
         }
       ]
     }
