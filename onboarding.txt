@@ -37,7 +37,7 @@
           "route": "/home"
         },
         {
-          "id": "2",
+          "id": "ABONE_2",
           "title": "Abone olmak istiyorum!",
           "description": "Sınırsız sohbet ve gelişim takibi ile daha iyi bir sen için harekete geç!",
           "route": "/home"
