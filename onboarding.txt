@@ -32,7 +32,7 @@
       "options": [
         {
           "id": "1",
-          "title": "“Hemen sohbete başlayalım!",
+          "title": "Hemen sohbete başlayalım!",
           "description": "İlk kullanım için ücretsiz 1 adet sohbet hakkın var. Fazlası için  dilediğin zaman Ayarlar sayfasından abone olabilirsin!",
           "route": "/home"
         },
