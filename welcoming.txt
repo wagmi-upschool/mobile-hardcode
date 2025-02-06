@@ -1,32 +1,41 @@
 {
   "hello": {
     "title": "Merhaba! Ben UP!",
-    "description": "Sınırsız konuda sana özel içerikler hazırlayabilirim."
+    "description": "Sürekli gelişim için Yapay Zeka Yol Arkadaşınım."
   },
   "image_with_text": {
-    "title": "Gelişim yolunda sohbet ederek sana yardımcı olabilirim.",
-    "imageUrl": "assets/images/welcome.png"
+    "title": "Her sohbetimizde birbirimizi daha iyi tanıyarak birlikte gelişeceğiz.",
+    "imageUrl": "https://upwagmidevcontent234355-upwagmitec.s3.us-east-1.amazonaws.com/public/up_app_gorseller/Welcoming2.jpeg"
   },
   "slider-info": {
     "items": [
       {
-        "text": "Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.",
-        "url": "https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/assistant_group_icons/assistant_icons/Property%201=45.png",
-        "key": "Alışkanlık Takibi"
-      },
-      {
-        "text": "Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.",
-        "url": "https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/assistant_group_icons/assistant_icons/Property%201=45.png",
+        "text": "Zorlu bir geri bildirim konuşmasını benimle pratik edebilir,",
+        "url": "https://upwagmidevcontent234355-upwagmitec.s3.us-east-1.amazonaws.com/public/assistant_group_icons/assistant_icons/Role+Play+600x600.png",
         "key": "Role Play"
       },
       {
-        "text": "Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.Sürekli geliştirdiğim araçlarımla her gün daha iyi bir sen olmana yardımcı olabilirim.",
-        "url": "https://upwagmidevcontent234355-upwagmitec.s3.amazonaws.com/public/assistant_group_icons/assistant_icons/Property%201=45.png",
-        "key": "Hafıza Kartları"
+        "text": "Performans değerlendirme gibi süreçlere benimle hazırlanabilirsin.",
+        "url": "https://upwagmidevcontent234355-upwagmitec.s3.us-east-1.amazonaws.com/public/assistant_group_icons/assistant_icons/Prova+Odas%C4%B1+600X600.png",
+        "key": "Prova Odası"
+      },
+      {
+        "text": "Sorumluluk dostun olarak takip ve hatırlatmalarla hayatını kolaylaştırırım.",
+        "url": "https://upwagmidevcontent234355-upwagmitec.s3.us-east-1.amazonaws.com/public/assistant_group_icons/assistant_icons/Sorumluluk+Dostu+600X600.png",
+        "key": "Sorumluluk Dostu"
+      },
+      {
+        "text": "Rehberli günlüklerle düşüncelerini düzenlemene yardım ederim.",
+        "url": "https://upwagmidevcontent234355-upwagmitec.s3.us-east-1.amazonaws.com/public/assistant_group_icons/assistant_icons/Reflection600x600.png",
+        "key": "Farkındalık Günlüğü"
       }
     ]
   },
+  "privacy": {
+    "title": "Gizlilik benim için çok önemli.",
+    "description": "Mesajların otomatik olarak uçtan uca şifreleniyor. Yani, sadece sen ve ben konuşmalarımızı görebiliriz.\n\nKimse mesajlarımıza erişemez  - *beni geliştirenler bile.*"
+  },
   "login": {
-    "text": "Gelişimini beraber takip edelim, beraber gelişelim."
+    "text": "Hadi, tanışmaya ve gelişim için sohbet etmeye başlayalım."
   }
 }
