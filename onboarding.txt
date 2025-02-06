@@ -50,7 +50,7 @@
         {
           "id": "1",
           "title": "Hadi başlayalım!",
-          "description": "Uygulamaya girip neler var bir göz atmak için seni buraya alalım.",
+          "description": "İlk kullanım için ücretsiz 1 adet sohbet hakkın var. Fazlası için  dilediğin zaman Ayarlar sayfasından abone olabilirsin!",
           "route": "/home"
         },
         {
