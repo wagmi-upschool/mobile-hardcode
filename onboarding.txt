@@ -27,6 +27,10 @@
     "false": "Kapalı kalsın"
   },
   "redirect": {
+    "promo": {
+            "title":"**İşte şimdi hazırız.**",
+            "options":[{"id":"1","title":"Hadi başlayalım!","description":"Uygulamaya girip neler var bir göz atmak için seni buraya alalım.","route":"/home"}] 
+        },
     "true": {
       "title": "**İşte şimdi hazırız.**",
       "options": [
