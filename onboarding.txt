@@ -17,6 +17,15 @@
       "10 yıldan uzun süredir"
     ]
   },
+  "aiExperience": {
+    "title": "Profesyonel veya kişisel gelişimin için yapay zeka araçlarını ne kadar kullanıyorsun?",
+    "options": [
+      "Kullanmıyorum",
+      "Nadiren",
+      "Sıklıkla",
+      "Her zaman"
+    ]
+  },
   "notification": {
     "title": "**Sen yoğunsun, gelişimini takip etmen için ben yanındayım.**\n\nKüçük hatırlatmalar için iznine ihtiyacım var. Söz seni gereksiz mesajlarla rahatsız etmeyeceğim.",
     "options": [
