@@ -18,7 +18,7 @@
     ]
   },
   "aiExperience": {
-    "title": "Profesyonel veya kişisel gelişimin için yapay zeka araçlarını ne kadar kullanıyorsun?",
+    "title": "**Profesyonel veya kişisel gelişimin için yapay zeka araçlarını ne kadar kullanıyorsun?**\n\nÖrneğin; geri bildirim verme, iletişim becerileri, zaman yönetimi vb.",
     "options": [
       "Kullanmıyorum",
       "Nadiren",
