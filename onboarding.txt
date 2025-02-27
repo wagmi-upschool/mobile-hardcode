@@ -11,14 +11,15 @@
   "experience": {
     "title": "**Harika!**\n\nPeki ne kadar zamandır bu alanda çalışıyorsun?",
     "options": [
-      "0 - 2 yıl",
-      "3 - 5 yıl",
-      "6 - 10 yıl",
+      "Henüz deneyimim yok",
+      "2 yıldan az",
+      "3-5 yıl",
+      "6-10 yıl",
       "10 yıldan uzun süredir"
     ]
   },
   "aiExperience": {
-    "title": "Profesyonel veya kişisel gelişimin için yapay zeka araçlarını ne kadar kullanıyorsun?",
+    "title": "**Profesyonel veya kişisel gelişimin için yapay zeka araçlarını ne kadar kullanıyorsun?**\n\nÖrneğin; geri bildirim verme, iletişim becerileri, zaman yönetimi vb.",
     "options": [
       "Kullanmıyorum",
       "Nadiren",
