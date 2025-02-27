@@ -11,8 +11,7 @@
   "experience": {
     "title": "**Harika!**\n\nPeki ne kadar zamandır bu alanda çalışıyorsun?",
     "options": [
-      "Henüz deneyimim yok"
-      "2 yıldan az",
+      "0 - 2 yıl",
       "3 - 5 yıl",
       "6 - 10 yıl",
       "10 yıldan uzun süredir"
