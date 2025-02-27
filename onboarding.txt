@@ -11,9 +11,10 @@
   "experience": {
     "title": "**Harika!**\n\nPeki ne kadar zamandır bu alanda çalışıyorsun?",
     "options": [
-      "0 - 2 yıl",
-      "3 - 5 yıl",
-      "6 - 10 yıl",
+      "Henüz deneyimim yok",
+      "2 yıldan az",
+      "3-5 yıl",
+      "6-10 yıl",
       "10 yıldan uzun süredir"
     ]
   },
@@ -36,6 +37,10 @@
     "false": "Kapalı kalsın"
   },
   "redirect": {
+    "promo": {
+            "title":"**İşte şimdi hazırız.**",
+            "options":[{"id":"1","title":"Hadi başlayalım!","description":"Uygulamaya girip neler var bir göz atmak için seni buraya alalım.","route":"/home"}] 
+        },
     "true": {
       "title": "**İşte şimdi hazırız.**",
       "options": [
@@ -59,7 +64,7 @@
         {
           "id": "1",
           "title": "Hadi başlayalım!",
-          "description": "Uygulamaya girip neler var bir göz atmak için seni buraya alalım.",
+          "description": "İlk kullanım için ücretsiz 1 adet sohbet hakkın var. Fazlası için  dilediğin zaman Ayarlar sayfasından abone olabilirsin!",
           "route": "/home"
         },
         {
